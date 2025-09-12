@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="w-full h-full flex flex-col bg-lightBg">
       <Header />
-      <Features/>
+      <Features  />
     </div>
   )
 }
